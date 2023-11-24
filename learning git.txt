@@ -1,2 +1,5 @@
 we have to clone the repository 
 then change to that directory
+work on it 
+then add commit push to remote repository
+if you do any changes again then we have to push it again.
